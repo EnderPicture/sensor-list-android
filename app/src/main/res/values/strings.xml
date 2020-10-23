@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">DonnyWu_A2</string>
+
+    <string name="maximum_range">Maximum Range</string>
+    <string name="min_delay">Min Delay</string>
+    <string name="name">Name</string>
+    <string name="power">Power</string>
+    <string name="resolution">Resolution</string>
+    <string name="type">Type</string>
+    <string name="vendor">Vendor</string>
+    <string name="version">Version</string>
+    <string name="title_activity_motion_detection">MotionDetection</string>
+
+    <string name="motion_status">Motion Status</string>
+    <string name="noise_status">Noise Status</string>
+
+    <string name="no_l_acc">This device does not have linear acceleration sensor</string>
+    <string name="moving">Moving</string>
+    <string name="not_moving">Not Moving</string>
+
+    <string name="sensor_values">Sensor Values</string>
+
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="deactivated">DEACTIVATED</string>
+</resources>
